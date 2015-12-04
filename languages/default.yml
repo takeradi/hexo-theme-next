@@ -34,18 +34,18 @@ footer:
 counter:
   tag_cloud:
     zero: No tags
-    one: 1 tag in total
-    other: "%d tags in total"
+    one: Tag
+    other: "Tags"
 
   categories:
     zero: No categories
-    one: 1 category in total
-    other: "%d categories in total"
+    one: Category
+    other: "Categories"
 
   archive_posts:
     zero: No posts.
     one: 1 post.
-    other: "%d posts in total."
+    other: "%d archived posts in total."
 
 state:
   posts: posts
@@ -61,7 +61,7 @@ cheers:
   great: Great
   excellent: Excellent
 
-keep_on: Keep on posting.
+keep_on: takeradi's busy typing. His typing speed sucks!
 
 symbol:
   comma: ', '
