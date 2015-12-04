@@ -54,14 +54,14 @@ state:
   categories: categories
 
 cheers:
-  um: Um..
-  ok: OK
+  um: Okay
+  ok: Okay
   nice: Nice
   good: Good
   great: Great
   excellent: Excellent
 
-keep_on: Keep on posting.
+keep_on: takeradi's busy typing. His typing speed sucks!
 
 symbol:
   comma: ', '
