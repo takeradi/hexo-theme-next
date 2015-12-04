@@ -183,7 +183,7 @@ mathjax:
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-71044761-1
 
 
 # Make duoshuo show UA
