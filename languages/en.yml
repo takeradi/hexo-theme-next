@@ -34,18 +34,18 @@ footer:
 counter:
   tag_cloud:
     zero: No tags
-    one: Tag:
-    other: "Tags:"
+    one: Tag
+    other: "Tags"
 
   categories:
     zero: No categories
-    one: Category:
-    other: "Categories:"
+    one: Category
+    other: "Categories"
 
   archive_posts:
     zero: No posts.
     one: 1 post.
-    other: "%d archived posts."
+    other: "%d archived posts in total."
 
 state:
   posts: posts
