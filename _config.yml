@@ -57,7 +57,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 
@@ -78,8 +78,8 @@ sidebar: post
 
 
 # Social links
-# social:
-  #GitHub:
+social:
+  GitHub: https://github.com/takeradi
   #Others:
 
 # Social Icons
@@ -179,8 +179,7 @@ disqus_shortname: takeradi
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
-
+google_site_verification: 5uL-DYg-tY1P_9Omt_ABsoWGtL0ZpDSJZKLtmVhm9fg
 
 # Google Analytics
 google_analytics: UA-71044761-1
